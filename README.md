@@ -26,8 +26,11 @@ Components Used:
 
 - Resistor assortment
 
+Algorithm Overview
+<img width="172" height="300" alt="Screenshot 2026-08-05 at 11 04 58 AM" src="https://github.com/user-attachments/assets/86bca571-c476-4e0b-aed7-6bf0197f0964" />
 
-
+Mechanical Overview
+<img width="632" height="118" alt="Screenshot 2026-08-05 at 11 05 22 AM" src="https://github.com/user-attachments/assets/14df586e-6783-47de-820c-4bfabccc3245" />
 
 Key Goals: 
 
