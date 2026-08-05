@@ -32,10 +32,13 @@ Components Used:
 Key Goals: 
 
 
-Conduct accurate and extensive research on a specific problem the elderly face in their day-to-day lives.
-Brainstorm and design a realistic solution. 
-Program, wire, and assembly the product. 
-Create a product that would help the elderly live independently and more comfortably. 
+- Conduct accurate and extensive research on a specific problem the elderly face in their day-to-day lives.
+
+- Brainstorm and design a realistic solution. 
+
+- Program, wire, and assembly the product. 
+
+- Create a product that would help the elderly live independently and more comfortably. 
 
 Team Members: 
 
