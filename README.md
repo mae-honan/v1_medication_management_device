@@ -53,7 +53,7 @@ Team Members:
 - Grace Sokol 
 
 
-Credits: 
+Acknowledgements: 
 
 
 Professor Petras Swissler for supplying materials and facilitating the progress of the project 
@@ -61,3 +61,7 @@ Professor Petras Swissler for supplying materials and facilitating the progress 
 Pranay KC for mentorship on programming, CAD, and electrical 
 
 Caleb Poliollio for mentorship on mechanical and CAD 
+
+
+Testing Video - note* medication scheduled to dispense 1 minute apart for testing purposes* 
+
